@@ -70,7 +70,7 @@ button:hover{
     grid-column-start: 4;
     grid-column-end: 5;
 }
-.delete{
+.backspace{
     background-color: #f1cf0f;
     border-color: #bba10b;
     grid-row-start: 2;
@@ -78,7 +78,7 @@ button:hover{
     grid-column-start: 4;
     grid-column-end: 5;
 }
-.delete:hover{
+.backspace:hover{
     background-color: #ffdb0ecf;
 }
 .equal-sign:hover{
